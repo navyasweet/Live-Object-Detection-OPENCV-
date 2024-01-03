@@ -1,13 +1,17 @@
-# live-Object-Detection (OpenCV)
+### live_Object_Detection (OpenCV)
 
-### overview
+### overview :
 
 Embark on a tech journey with our captivating project – a live object detection (opencv) marvel! Utilizing OpenCV and MobileNetSSD, this code transforms your laptop camera or webcam into a vigilant eye. It tirelessly scans each video frame, identifying objects like people, chairs, and dogs, enclosing them in a box. Dive into the beauty of code and witness the magic unfold! 
 Here, we will go through the steps required for setting up the project and some explanation about the code.
 
-# Prologue
+## Demo :
 
-by these following steps u can build a project on ur own :
+    
+
+# Prologue :
+
+By these following steps u can build a project on ur own :
 
 1 .Install Dependencies: Ensure OpenCV and MobileNetSSD are  installed.
 2 .Set Up Camera: Connect your laptop camera or webcam.
@@ -58,5 +62,6 @@ system_profiler SPCameraDataType | grep "^    [^ ]" | sed "s/    //" | sed "s/:/
 python real_time_object_detection.py -p C:\Users\navya\OneDrive\Documents\docs\dronix\live-Object-Detection (OpenCV)-master\MobileNetSSD_deploy.prototxt.txt -m C:\Users\navya\OneDrive\Documents\docs\dronix\live-Object-Detection (OpenCV)-master\MobileNetSSD_deploy.caffemodel
 
 ```
-
-
+## Technology uaed :
+    
+![python-libraries-for-ML](https://github.com/navyasweet/Live-Object-Detection-OPENCV-/assets/134292286/ac68319f-9db4-4e77-a234-3bb414d32941)
