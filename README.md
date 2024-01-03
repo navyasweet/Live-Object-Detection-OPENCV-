@@ -1,15 +1,27 @@
-### live_Object_Detection (OpenCV)
+# LIVE_OBJECT_DETECTION (OpenCV)
 
-### overview :
+
+## Table of Content:
+
+  * [Overview](#overview)
+  * [Demo](#demo)
+  * [Prologue](#prologue)
+  * [Technology Used](#technologyused)
+
+
+
+## overview :
 
 Embark on a tech journey with our captivating project – a live object detection (opencv) marvel! Utilizing OpenCV and MobileNetSSD, this code transforms your laptop camera or webcam into a vigilant eye. It tirelessly scans each video frame, identifying objects like people, chairs, and dogs, enclosing them in a box. Dive into the beauty of code and witness the magic unfold! 
 Here, we will go through the steps required for setting up the project and some explanation about the code.
 
 ## Demo :
 
-    
+![Screenshot 2023-10-04 151153](https://github.com/navyasweet/Live-Object-Detection-OPENCV-/assets/134292286/e598f687-b571-46df-adbc-84d1039d42b6)
+![Screenshot 2024-01-03 220110](https://github.com/navyasweet/Live-Object-Detection-OPENCV-/assets/134292286/4705d108-a4ce-4000-bfc1-34984d2f3a47)
 
-# Prologue :
+
+## Prologue :
 
 By these following steps u can build a project on ur own :
 
@@ -19,7 +31,7 @@ By these following steps u can build a project on ur own :
 4 .Object Detection: Watch as the algorithm identifies persons, chairs, dogs, and more.
 5 .Bounding Boxes: Objects are elegantly framed in boxes for clear visualization.
 
-### To Clone /Run the Existing Project Follow below Steps :
+## To Clone /Run the Existing Project Follow below Steps :
 
 **Step 1:** Create a directory in your local machine and cd into it
 
