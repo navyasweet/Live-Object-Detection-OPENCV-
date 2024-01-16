@@ -134,7 +134,7 @@ Getting the height and width of the template image using `.shape` method.
 ```
 ***
 
-## Error dialogue box using Tkinter
+## 💀 Error dialogue box using Tkinter
 <img alt="error" src="images/error.png" />
  
  ```py
@@ -190,7 +190,7 @@ cv2.destroyAllWindows()
 
 ```
 
-<h2> Contact</h2>
+<h2> 📲 Contact</h2>
 
 If you want to contact me, you can reach me through below handle.
 
