@@ -194,7 +194,7 @@ cv2.destroyAllWindows()
 
 If you want to contact me, you can reach me through below handle.
 
-<a href="https://www.linkedin.com/in/navya-sri-b8854426a/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Pratham Bhatnagar</img></a>
+<a href="https://www.linkedin.com/in/navya-sri-b8854426a/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25">Navya Sri</img></a>
 
 
 
