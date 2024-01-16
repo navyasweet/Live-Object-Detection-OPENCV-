@@ -1,6 +1,6 @@
 <div align="center">
    <h1> Object Detection Project Using OpenCV </h1> 
-  <img alt="projectLogo" src="images/projectLogo.jpg" />
+  <img alt="projectLogo" src="image1.png" />
 </div>
 
 
